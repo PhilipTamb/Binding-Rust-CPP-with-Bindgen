@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libvec.a CMakeFiles/vec.dir/vec.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libvec.a

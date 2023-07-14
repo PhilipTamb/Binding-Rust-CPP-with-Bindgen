@@ -1,0 +1,7 @@
+/Users/philip/dev/bindgen/rust_cpp_ffi/libvec/build/CMakeFiles/vec.dir
+/Users/philip/dev/bindgen/rust_cpp_ffi/libvec/build/CMakeFiles/edit_cache.dir
+/Users/philip/dev/bindgen/rust_cpp_ffi/libvec/build/CMakeFiles/rebuild_cache.dir
+/Users/philip/dev/bindgen/rust_cpp_ffi/libvec/build/CMakeFiles/list_install_components.dir
+/Users/philip/dev/bindgen/rust_cpp_ffi/libvec/build/CMakeFiles/install.dir
+/Users/philip/dev/bindgen/rust_cpp_ffi/libvec/build/CMakeFiles/install/local.dir
+/Users/philip/dev/bindgen/rust_cpp_ffi/libvec/build/CMakeFiles/install/strip.dir
